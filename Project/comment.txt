@@ -1,15 +1,8 @@
 
 <?php
 
+// comment
 
-dfd
-f
-d
-
-fd
-f
-d
-f
-dsf
+echo "testtesttest";
 
 ?>
