@@ -1,8 +1,8 @@
 
 <?php
 
-// commment xxxxxxxxxxxxxx
-// commment yyyyyyyyyyyyyyyy
+// commment zzzzzzzzzz
+// commment zzzzzzzzzz
 
 
 ?>
