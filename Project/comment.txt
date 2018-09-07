@@ -1,6 +1,8 @@
 
 <?php
 
-// last update
+// commment xxxxxxxxxxxxxx
+// commment yyyyyyyyyyyyyyyy
+
 
 ?>
